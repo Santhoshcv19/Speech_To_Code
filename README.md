@@ -8,7 +8,7 @@ This project integrates speech-to-text conversion, text-to-code generation, and 
 
 - [@Santhoshcv19](https://github.com/Santhoshcv19)
 - [@bharat0901](https://github.com/bharat0901)
-- Jefferson
+- [@jefferson0511](https://github.com/jefferson0511)
 
 
 
